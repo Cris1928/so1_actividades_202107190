@@ -5,5 +5,5 @@ El chat basico en el que pueden haber dos participantes, se poseé dos scripts p
 ## Ejecucion
 1. Entrar a la carpeta que contiene los scripts
 2. Nos aseguramos de dar los permisos de ejecucion a los script con chmod +x.
-3. Crear los named pipes para establecer los canales de comunicacion entre los dos participantes para esto utilizamos el comando mkfifo.
-4. ejecutamos los scripts en dos terminales separadas y hacemos pruebas.
+3. Crear los named pipes para establecer los canales de comunicacion entre los dos participantes para esto utilizar el comando mkfifo.
+4. ejecutar los scripts en dos terminales separadas y hacer las pruebas.
